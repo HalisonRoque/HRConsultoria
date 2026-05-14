@@ -1,6 +1,5 @@
 using webApi.Features.DTOs;
 using webApi.Features.Repositories;
-//using UserEntity = webApi.Features.Models.User;
 
 namespace webApi.Features.Services
 {
