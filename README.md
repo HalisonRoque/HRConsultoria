@@ -83,7 +83,7 @@ Utilizado para criação de gráficos e visualização de dados.
 
 # Backend
 
-## 📥 Acessar pasta da API
+## Acessar pasta da API
 cd webApi
 
 ## Restaurar dependências
@@ -99,8 +99,10 @@ dotnet build
 dotnet run
 
 ## Acessar API
-API: https://localhost:7129
-Swagger: https://localhost:7129/swagger
+API: http://localhost:5083
+Swagger: http://localhost:5083/swagger
+
+---
 
 # Frontend (React + Vite)
 ## Acessar pasta do frontend
@@ -115,13 +117,15 @@ npm run dev
 ## Acessar aplicação
 http://localhost:5173
 
+---
+
 # Comunicação Frontend ↔ Backend
 
 A comunicação é feita via Axios, consumindo a API .NET.
 
 Exemplo:
 
-axios.get("https://localhost:7129/api/report");
+axios.get("http://localhost:5083/api/report");
 
 ## Tecnologias Utilizadas
 ### Backend
@@ -141,6 +145,8 @@ Recharts
 
 ### Comunicação
 Axios
+
+---
 
 # Decisões de Arquitetura
 
