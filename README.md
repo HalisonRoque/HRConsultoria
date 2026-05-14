@@ -41,7 +41,9 @@ Simula um banco de dados real, permitindo desenvolvimento e testes sem infraestr
 
 ## Estrutura Visual do Backend
 
-> Consulte o arquivo `image_77559c.png` para visualizar a organização das pastas.
+> Consulte o arquivo para visualizar a organização das pastas.
+<img width="397" height="388" alt="image" src="https://github.com/user-attachments/assets/0b9e30d2-fd29-4637-8860-758750a6361a" />
+
 
 ---
 
@@ -67,7 +69,8 @@ Utilizado para criação de gráficos e visualização de dados.
 
 ## Estrutura Visual do Frontend
 
-> Consulte o arquivo `image_775562.png` para visualizar a organização das pastas.
+> Consulte o arquivo para visualizar a organização das pastas.
+<img width="397" height="498" alt="image" src="https://github.com/user-attachments/assets/8882e3d7-7a8d-4295-a77f-6da022a776df" />
 
 ---
 
